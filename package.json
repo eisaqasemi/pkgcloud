@@ -57,6 +57,7 @@
   "dependencies": {
     "async": "0.9.x",
     "aws-sdk": "^2.2.43",
+    "dropbox": "^2.5.7",
     "errs": "0.3.x",
     "eventemitter2": "0.4.x",
     "fast-json-patch": "0.5.x",
@@ -69,6 +70,7 @@
     "request": "2.40.x",
     "s3-upload-stream": "~1.0.7",
     "through2": "0.6.x",
+    "tmp": "0.0.33",
     "url-join": "0.0.x",
     "xml2js": "0.1.x"
   },
